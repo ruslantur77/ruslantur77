@@ -1,5 +1,7 @@
 ## Hi, I'm Ruslan
 
+Junior ML Engineer/Data Scientist
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ruslantursunov77@gmail.com) 
